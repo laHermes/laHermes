@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **journaling app**
 
-- 🌱 I’m currently learning **React Native and AWS & Terraform in the spare time**
+- 🌱 I’m currently learning **React Native and AWS & Terraform in my spare time**
 
 <p align="left">
 </p>
