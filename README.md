@@ -13,8 +13,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahermes&show_icons=true&locale=en&layout=compact" alt="lahermes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahermes&show_icons=true&locale=en" alt="lahermes" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahermes&show_icons=true&locale=en" alt="lahermes" /></p>
+ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahermes&" alt="lahermes" /></p>
 
 
