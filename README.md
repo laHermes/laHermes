@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lazar Jankovic</h1>
 
 
-<!-- - 🔭 I’m currently working on **diary app**
- -->
-- 🌱 I’m currently learning **React Native**
+
 
 <p align="left">
 </p>
