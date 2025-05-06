@@ -10,10 +10,8 @@ const skills = {
 };
 ```
 
-### Currently working on:
-- [Hyperlane](https://github.com/hyperlane-xyz) interoperability framework
-
 ### Notable Projects:
+- [Hyperlane](https://github.com/hyperlane-xyz) interoperability framework
 - [Lido Finance](https://github.com/txfusion/lido-l2)
 
 ---
