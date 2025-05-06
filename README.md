@@ -11,7 +11,7 @@ const skills = {
 ```
 
 ### Currently working on:
-- [Hyperlane](https://github.com/hyperlane-xyz) interoperability layer
+- [Hyperlane](https://github.com/hyperlane-xyz) interoperability framework
 
 ### Notable Projects:
 - [Lido Finance](https://github.com/txfusion/lido-l2)
