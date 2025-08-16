@@ -14,10 +14,5 @@ const skills = {
 - [Hyperlane](https://github.com/hyperlane-xyz) interoperability framework
 - [Lido Finance](https://github.com/txfusion/lido-l2)
 
----
-
-> "Some people write symphonies. This is my gift."
-> — George Costanza
-
 
 
